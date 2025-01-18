@@ -1,1 +1,1 @@
-# plaaforma-sorteio-nome
+# plataforma-sorteio-nome
